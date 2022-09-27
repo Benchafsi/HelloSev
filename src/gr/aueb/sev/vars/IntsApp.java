@@ -6,7 +6,7 @@ public class IntsApp {
         int num2 = 20;
         int result;
 
-        result = num1+num2;
+        result = num1 + num2;
         System.out.println("Result: " + result);
     }
 }
